@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning      
 - 🌱 I’m currently learning NerualNetwork
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: chen.zhao@colostate.edu
+- 📫 How to reach me: zhaochen9612@gmail.com
 
 <!---
 kadingche494/kadingche494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
